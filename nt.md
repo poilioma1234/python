@@ -60,7 +60,11 @@ Các hàm
 ![image](https://user-images.githubusercontent.com/96612345/193209297-da1f5195-e5f8-45b7-8945-696021d1cd16.png)
 
 
+- Escape Sequence
 
+Túm cái váy lại  là một chuỗi (chính xác là kí tự) đặc biệt trong Python. Bắt đầu với một dấu \.
+
+![image](https://user-images.githubusercontent.com/96612345/193412982-604041d8-eea1-4115-b049-b86a47588908.png)
 
 
 

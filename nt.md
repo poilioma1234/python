@@ -67,6 +67,71 @@ Túm cái váy lại  là một chuỗi (chính xác là kí tự) đặc biệt
 ![image](https://user-images.githubusercontent.com/96612345/193412982-604041d8-eea1-4115-b049-b86a47588908.png)
 
 
+- Chuỗi trần
+
+Túm cái váy lại chuôi trần là vô hiệu hóa các docstring
+    Cú pháp r<nội dung chuỗi trần>
+    
+![image](https://user-images.githubusercontent.com/96612345/194200518-b754c826-b0ad-47f3-b2bd-1b85072c8ba0.png)
+
+
+- Toán tử
+
+Cộng trừ nhân chia như bth
+
+
+*Lưu ý: bất cứ chuỗi nào nhân với 0 hoặc chuỗi âm đều bằng không
+
+![image](https://user-images.githubusercontent.com/96612345/194200779-0acb1ae0-c8d1-4220-a2ef-c158586a5edd.png)
+
+
+
+- Toán tử In
+Túm cái váy lại toán tử in là true or false xem trong chuỗi có chuỗi hay không
+
+![image](https://user-images.githubusercontent.com/96612345/194201052-07a6b70b-afb8-4686-b2c0-4ff18a44dd37.png)
+
+
+- Indexing
+Các toán tử đi từ 0 đến n
+
+![image](https://user-images.githubusercontent.com/96612345/194201253-eecd089d-a4c1-4432-91db-3cb15c7d1a17.png)
+
+Lưu ý: cú pháp len là truy cập phần tử cuối củng của chuỗi
+
+![image](https://user-images.githubusercontent.com/96612345/194201439-0dcd66d2-10bb-406e-ba06-63d9812a37ff.png)
+
+
+- Cắt chuỗi
+Cắt như các ngôn ngữ khác
+
+![image](https://user-images.githubusercontent.com/96612345/194201574-d39335bc-1323-4cf3-8a3d-c54710d2c7be.png)
+
+** Lưu ý về None
+
+![image](https://user-images.githubusercontent.com/96612345/194201745-30845fac-2e16-4f78-9464-fb00a63c339e.png)
+
+![image](https://user-images.githubusercontent.com/96612345/194201832-cf86723a-eba2-4f9a-8bd5-0484cbbede01.png)
+
+![image](https://user-images.githubusercontent.com/96612345/194201881-cba6740a-dc6d-4d26-8c2c-0b332502dc2a.png)
+
+Bước nhảy
+
+![image](https://user-images.githubusercontent.com/96612345/194202113-a7b00f36-7e50-4aa9-b42d-858d6909dea8.png)
+
+- Ép kiểu dữ liệu
+
+int<giá trị>
+str<giá trị>
+float<giá trị>
+
+- Thay thế
+
+Túm cái váy lại thay thế chuỗi trong python không dùng indexing được mà ta phải dùng một cách gián tiếp
+
+![image](https://user-images.githubusercontent.com/96612345/194202559-263ee9dc-0436-46c1-81a1-666c2eff7fda.png)
+
+
 
 
 

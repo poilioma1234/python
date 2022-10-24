@@ -133,6 +133,91 @@ Túm cái váy lại thay thế chuỗi trong python không dùng indexing đư�
 
 
 
+- Định dạng bằng toán tử %
+
+Cú pháp: <Chuỗi>%(Giá trị 1, giá trị 2, ..., giá trị n)
+
+![image](https://user-images.githubusercontent.com/96612345/197506427-217a3640-644a-43b2-ad63-6db65ae0a6b4.png)
+
+Các phần tử %
+
+![image](https://user-images.githubusercontent.com/96612345/197506583-6e9038e8-bf6e-4dc7-be42-0b11102a80ce.png)
+
+
+%s và %d tương đương giống nhau
+Sự khác nhau giữa %s và %d là phương thức %s là thay thế cho giá trị phương thức _str_ tạo nên đối tượng đó
+%d thay thế cho giá trị phương thức _repr_
+
+
++ %d là lấy phần nguyên của phương thức float
+
+![image](https://user-images.githubusercontent.com/96612345/197507322-72a1a66d-547f-4aa4-9902-504502f545ef.png)
+
+%f làm tròn hoặc lấy số trong khoảng
+
+![image](https://user-images.githubusercontent.com/96612345/197507525-90930c43-b01f-4a70-b0c3-eb06d21b84a6.png)
+
+
+- Chuỗi F
+
+![image](https://user-images.githubusercontent.com/96612345/197507773-2e53ffc3-6e5e-4760-8f46-50791fe2fc86.png)
+
+Hoặc
+
+![image](https://user-images.githubusercontent.com/96612345/197508131-95a11788-ea5a-4071-b470-3f7b93a59951.png)
+
+
+-Format 
+
+Cú pháp: <Chuỗi>format(variable)
+
+![image](https://user-images.githubusercontent.com/96612345/197509823-48424be9-ab3f-4f40-b997-4ae6ad90d3cd.png)
+
+- 3 cách căn lề
+
++ Cú pháp
+Căn lề phải: {:(c)>n}
+Căn lề trái: {:(c)<n}
+Căn lề giữa: {:(c)^n}
+
+![image](https://user-images.githubusercontent.com/96612345/197510785-81dfd253-f5b4-4bf2-84e6-8abfbfa42523.png)
+
+- Có 8 phương thức biến đổi
+
++ Capitalize
+Cú pháp: <Chuỗi>.capitalize()
+Công dụng: Viết hoa chữ cái đầu tiên còn lại viết thường
+
++ Upper
+Cú pháp: <Chuỗi>.Upper()
+Công dụng: như tên viết hoa tất cả các chuỗi
+
++ Lower 
+Cú pháp <Chuỗi>.Lower()
+Công dụng: Có tác dụng viết thường tất cả các chuỗi
+
++ Swapcase
+Cú pháp: <Chuỗi>.swapcase()
+Công dụng: Trả về 1 chuỗi với các kí tự viết hoa thành viết thường còn viết thường thành viết hoa
+
++ Title
+Cú pháp: <Chuỗi>.Title()
+Công dụng: trả về một chuỗi với dạng tiêu đề
+
++ Center
+Cú pháp: <Chuỗi>.Center(Width,[Fillchar])
+Công dụng: trả về 1 chuỗi được căn giữa với chiều rộng width
+
++ Rjust
+Cú pháp: <Chuỗi>.Rjust(Width,[Fillchar])
+Công dụng: Căn lể phải
+
++ Ljust
+Cú pháp: <Chuỗi>.Ljust(Width,[Fillchar])
+Công dụng: Căn lề trái
+
+
+
 
 
 
